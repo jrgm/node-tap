@@ -9,7 +9,6 @@
     "inherits": "*",
     "yamlish": "*",
     "slide": "*",
-    "runforcover": "~0.0.2",
     "nopt": "~2",
     "mkdirp": "~0.3",
     "difflet": "~0.2.0",
