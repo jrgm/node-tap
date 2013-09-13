@@ -14,7 +14,9 @@
     "difflet": "~0.2.0",
     "deep-equal": "~0.0.0",
     "buffer-equal": "~0.0.0",
-    "glob": "~3.2.1"
+    "glob": "~3.2.1",
+    "istanbul": "~0.1.43",
+    "cover": "~0.2.9"
   },
   "bundledDependencies": [
     "inherits",
